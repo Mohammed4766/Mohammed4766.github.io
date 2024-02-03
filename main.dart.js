@@ -83398,16 +83398,15 @@ s=A.bO("WELCOME TO MY PORTFOLIO! ",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.06:f*0.05,
 r=f*0.04
 q=A.cM(h,r,h)
 p=A.bO("I am,",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.05:f*0.06,h,h,B.dn,h,h,!0,h,h,h,h,h,h,h,h),B.at)
-o=f*0.02
-n=A.cM(h,o,h)
-m=A.bO("Mohammed \nAlanzi ",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.08:f*0.09,h,h,B.c4,h,h,!0,h,h,h,h,h,h,h,h),h)
+o=A.cM(h,f*0.02,h)
+n=A.bO("Mohammed \nAlanzi ",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.08:f*0.09,h,h,B.c4,h,h,!0,h,h,h,h,h,h,h,h),h)
 r=A.bt(h,h,B.i,h,h,h,h,h,h,h,h,g?e*0.04:r,h,h,h,h,h,!0,h,h,h,h,h,h,h,h)
-l=t.p
-r=A.ec(A.a([B.me,A.cM(A.qC(A.apP(A.a([A.a8l("software engineering"),A.a8l("Flutter Developer")],t.u6),100),h,B.cl,!0,r,h,h,B.aK),f*0.05,h)],l),B.w,B.y,B.b0)
-o=A.cM(h,o,h)
-k=A.a([],l)
-for(g=f*0.09,j=e*0.005,i=0;i<2;++i)k.push(new A.zJ(B.mw[i],B.mA[i],g,j,h))
-return A.cB(A.a([s,q,p,n,m,r,o,A.ec(k,B.w,B.y,B.b0)],l),B.aM,B.y,B.b0)}}
+m=t.p
+r=A.ec(A.a([B.me,A.cM(A.qC(A.apP(A.a([A.a8l("software engineering"),A.a8l("Flutter Developer")],t.u6),100),h,B.cl,!0,r,h,h,B.aK),f*0.05,h)],m),B.w,B.y,B.b0)
+l=A.cM(h,f*0.002,h)
+k=A.a([],m)
+for(g=f*0.095,j=e*0.005,i=0;i<2;++i)k.push(new A.zJ(B.mw[i],B.mA[i],g,j,h))
+return A.cB(A.a([s,q,p,o,n,r,l,A.ec(k,B.w,B.y,B.b0)],m),B.aM,B.y,B.b0)}}
 A.I0.prototype={
 M(a){var s,r=null,q=t.w,p=A.aZ(a,r,q).w.a.a
 q=A.aZ(a,r,q).w
@@ -83415,7 +83414,7 @@ s=t.p
 return A.cM(A.ec(A.a([B.Cm,A.cM(r,r,p*0.2),A.eS(A.mz(B.bU,A.a([A.m1("assets/1.json",r,r,r,r),A.ci(r,A.a2L("assets/10.jpg",p*0.18),B.W,r,B.kJ,r,r,r,r)],s),B.W,B.bR),1)],s),B.w,B.y,B.x),q.a.b-100,r)}}
 A.I1.prototype={
 M(a){var s=null,r=A.aZ(a,s,t.w).w.a.b,q=t.p
-return A.cM(A.cB(A.a([A.mz(B.bU,A.a([A.m1("assets/1.json",s,s,s,r*0.43),A.np(A.ci(s,A.a2L("assets/10.jpg",r*0.28),B.W,s,B.kJ,s,s,s,s),s,s)],q),B.W,B.bR),B.Cl],q),B.w,B.y,B.x),r-100,s)}}
+return A.cM(A.cB(A.a([A.mz(B.bU,A.a([A.m1("assets/1.json",s,s,s,r*0.43),A.np(A.ci(s,A.a2L("assets/10.jpg",r*0.28),B.W,s,B.kJ,s,s,s,s),s,s)],q),B.W,B.bR),B.Cl],q),B.w,B.y,B.x),r-40,s)}}
 A.Jh.prototype={
 M(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=t.w,f=A.aZ(a,h,g).w.a.b,e=A.aZ(a,h,g).w.a.a
 g=e<600
@@ -83423,16 +83422,15 @@ s=A.bO("WELCOME TO MY PORTFOLIO! ",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.06:f*0.05,
 r=f*0.04
 q=A.cM(h,r,h)
 p=A.bO("I am,",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.05:f*0.06,h,h,B.dn,h,h,!0,h,h,h,h,h,h,h,h),B.at)
-o=f*0.02
-n=A.cM(h,o,h)
-m=A.bO("Mohammed \nAlanzi ",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.08:f*0.09,h,h,B.c4,h,h,!0,h,h,h,h,h,h,h,h),h)
+o=A.cM(h,f*0.02,h)
+n=A.bO("Mohammed \nAlanzi ",h,A.bt(h,h,h,h,h,h,h,h,h,h,h,g?e*0.08:f*0.09,h,h,B.c4,h,h,!0,h,h,h,h,h,h,h,h),h)
 r=A.bt(h,h,B.i,h,h,h,h,h,h,h,h,g?e*0.04:r,h,h,h,h,h,!0,h,h,h,h,h,h,h,h)
-l=t.p
-r=A.ec(A.a([B.me,A.cM(A.qC(A.apP(A.a([A.a8l("software engineering"),A.a8l("Flutter Developer")],t.u6),100),h,B.cl,!0,r,h,h,B.aK),f*0.05,h)],l),B.w,B.y,B.b0)
-o=A.cM(h,o,h)
-k=A.a([],l)
-for(g=f*0.09,j=e*0.005,i=0;i<2;++i)k.push(new A.zJ(B.mw[i],B.mA[i],g,j,h))
-return A.cB(A.a([s,q,p,n,m,r,o,A.ec(k,B.w,B.y,B.b0)],l),B.aM,B.y,B.b0)}}
+m=t.p
+r=A.ec(A.a([B.me,A.cM(A.qC(A.apP(A.a([A.a8l("software engineering"),A.a8l("Flutter Developer")],t.u6),100),h,B.cl,!0,r,h,h,B.aK),f*0.05,h)],m),B.w,B.y,B.b0)
+l=A.cM(h,f*0.002,h)
+k=A.a([],m)
+for(g=f*0.095,j=e*0.005,i=0;i<2;++i)k.push(new A.zJ(B.mw[i],B.mA[i],g,j,h))
+return A.cB(A.a([s,q,p,o,n,r,l,A.ec(k,B.w,B.y,B.b0)],m),B.aM,B.y,B.b0)}}
 A.zJ.prototype={
 M(a){var s=this,r=null,q=s.f
 return new A.ep(new A.aU(q,0,q,0),A.arl(B.lm,new A.r1(A.asE(r,r,new A.rr(s.c,1,r)),r,s.e,r),new A.aai(s),r),r)}}
@@ -90113,7 +90111,7 @@ s($,"aOg","axT",()=>new A.acU(A.dQ("[/\\\\]",!0,!1),A.dQ("[^/\\\\]$",!0,!1),A.dQ
 s($,"aOf","aln",()=>new A.acJ(A.dQ("/",!0,!1),A.dQ("(^[a-zA-Z][-+.a-zA-Z\\d]*://|[^/])$",!0,!1),A.dQ("[a-zA-Z][-+.a-zA-Z\\d]*://[^/]*",!0,!1),A.dQ("^/",!0,!1)))
 s($,"aOd","axS",()=>A.aFW())
 r($,"aQO","uJ",()=>A.a([A.ml("This system employs AI and surveillance cameras to monitor fires. Upon detecting a fire, it promptly sends alerts to both the user and civil defense. Additionally, it provides crucial information to facilitate informed decision-making.","assets/project/MUNIR.png","MUNIR"),A.ml("A sophisticated note-taking application that empowers users to seamlessly create, edit, store their notes. Leveraging advanced libraries, the app ensures efficient data storage on the device, guaranteeing a streamlined and organized note-taking experience.","assets/project/Notepad.png","Notepad"),A.ml("An application that displays some questions, answers them, and displays the result","assets/project/quiz app.png","quiz app"),A.ml("bolot is an application for calculating the points of playing the game of bolot","assets/project/bolot.png","bolot"),A.ml("E-commerce platform for easy shopping: Log in, explore diverse products, add to cart, and seamlessly checkout for a secure and convenient experience.","assets/project/ecommerce.png","ecommerce"),A.ml("A personal website showcasing my projects, experiences, skills, and contact information.","assets/project/Personal website.png","Personal website"),A.ml("This application was crafted during a cooperative internship. It enables users to subscribe to sports clubs, efficiently manage their subscriptions, and easily book lessons.","assets/project/Berry Gyms.png","Berry Gyms"),A.ml("I contributed to the development of a fundraising platform as part of my cooperative training. My role involved building a mobile application using Flutter.","assets/project/EAFW.png","EAFW"),A.ml("The application uses API to display cryptocurrency prices, GETX is used as state management .","assets/project/cryptocurrency.png","cryptocurrency")],A.ad("q<Kn>")))
-r($,"aQG","apu",()=>A.a([A.atM("Mind Information Technology(Internship)","- Developing a mobile application for the EAfW platform and creating a user-friendly interface. \n - Gaining practical experience in mobile application development and utilizing modern technologies. \n - Contributing to the development of a mobile application for the Berry Games platform.\n -Collaborating with the team to design interactive gameplay features and implementing engaging features.","Mobile application developer","06/2023 \u2013 08/2023"),A.atM("Google Club for Student Developers(Volunteer)","- Presenter of Software Engineering Specialization Exploration Journey Initiative | Google Developer Student Clubs | Northern Border University | Dec 2023 \n -Presenter of Build your first Flutter App course | Google Developer Student Clubs | Aljouf University | Jan 2024.","Member","02/2023 \u2013 01/2024")],A.ad("q<No>")))
+r($,"aQG","apu",()=>A.a([A.atM("Mind Information Technology(Internship)","- Developing a mobile application for the EAfW platform and creating a user-friendly interface. \n - Gaining practical experience in mobile application development and utilizing modern technologies. \n - Contributing to the development of a mobile application for the Berry Games platform.\n -Collaborating with the team to design interactive gameplay features and implementing engaging features.","Mobile application developer",""),A.atM("Google Club for Student Developers(Volunteer)","- Presenter of Software Engineering Specialization Exploration Journey Initiative | Google Developer Student Clubs | Northern Border University | Dec 2023 \n -Presenter of Build your first Flutter App course | Google Developer Student Clubs | Aljouf University | Jan 2024.","Member","")],A.ad("q<No>")))
 s($,"aNC","alj",()=>A.ar0())
 s($,"aOy","ap6",()=>new A.E())
 r($,"aGB","ap5",()=>{var q=new A.a4C()

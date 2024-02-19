@@ -83452,10 +83452,10 @@ A.LQ.prototype={
 M(a){var s=null,r=t.w,q=A.aZ(a,s,r).w.a.a,p=q*0.05,o=t.p
 return A.ci(s,A.ec(A.a([A.eS(A.m1("assets/2.json",s,A.aZ(a,s,r).w.a.b*0.5,s,s),1),A.eS(A.cB(A.a([A.cM(A.cB(A.a([A.bO("Hard Skills".toUpperCase(),s,A.bt(s,s,s,s,s,s,s,s,s,s,s,p,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),B.cj,A.acV(this.Ae(q),15,15)],o),B.aM,B.y,B.x),s,1/0),B.cj,A.cM(A.cB(A.a([A.bO("Soft Skills".toUpperCase(),s,A.bt(s,s,s,s,s,s,s,s,s,s,s,p,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),B.cj,A.acV(this.Fh(q),15,15)],o),B.aM,B.y,B.x),s,1/0)],o),B.w,B.y,B.x),2)],o),B.w,B.y,B.x),B.n,s,s,s,s,B.dk,s)},
 Ae(a){var s,r=A.a([],t.p)
-for(s=1;s<12;++s)r.push(new A.p4(a,$.awl[s],null))
+for(s=0;s<12;++s)r.push(new A.p4(a,$.awl[s],null))
 return r},
 Fh(a){var s,r=A.a([],t.p)
-for(s=1;s<6;++s)r.push(new A.p4(a,$.aw5[s],null))
+for(s=0;s<6;++s)r.push(new A.p4(a,$.aw5[s],null))
 return r}}
 A.LR.prototype={
 M(a){var s,r=null,q=t.w,p=A.aZ(a,r,q).w.a.a*0.05
@@ -83463,10 +83463,10 @@ q=A.aZ(a,r,q).w.a.b-100
 s=t.p
 return A.ci(r,A.cB(A.a([A.cM(A.cB(A.a([A.bO("Hard Skills".toUpperCase(),r,A.bt(r,r,r,r,r,r,r,r,r,r,r,p,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.cj,A.acV(this.Ae(q),15,15)],s),B.aM,B.y,B.x),r,1/0),B.cj,A.cM(A.cB(A.a([A.bO("Soft Skills".toUpperCase(),r,A.bt(r,r,r,r,r,r,r,r,r,r,r,p,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.cj,A.acV(this.Fh(q),15,15)],s),B.aM,B.y,B.x),r,1/0)],s),B.w,B.y,B.x),B.n,r,r,r,r,B.C7,r)},
 Ae(a){var s,r=A.a([],t.p)
-for(s=1;s<12;++s)r.push(new A.p4(a,$.awl[s],null))
+for(s=0;s<12;++s)r.push(new A.p4(a,$.awl[s],null))
 return r},
 Fh(a){var s,r=A.a([],t.p)
-for(s=1;s<6;++s)r.push(new A.p4(a,$.aw5[s],null))
+for(s=0;s<6;++s)r.push(new A.p4(a,$.aw5[s],null))
 return r}}
 A.AA.prototype={
 M(a){var s=this,r=null,q=s.c,p=q*0.014,o=t.p
@@ -89644,7 +89644,7 @@ $.au8=1
 $.amP=-9007199254740992
 $.arF=0
 $.aDa=A.A(t.S,A.ad("e_"))
-$.awl=A.a(["Flutter","Dart","Firebase","Fetch API","OOP","Figma","software testing","Development Process","html","Css","php","SQL"],t.s)
+$.awl=A.a(["Flutter","Dart","Firebase","Fetch API","OOP","Figma","node js","express jssoftware testing","Development Process","html","Css","SQL"],t.s)
 $.aw5=A.a(["Problem-solving","Teamwork","Adaptability","Time management","Communication","Attention to detail"],t.s)
 $.dY=A.a([4294967295,2147483647,1073741823,536870911,268435455,134217727,67108863,33554431,16777215,8388607,4194303,2097151,1048575,524287,262143,131071,65535,32767,16383,8191,4095,2047,1023,511,255,127,63,31,15,7,3,1,0],t.t)
 $.aDc=A.A(t.S,A.ad("aNp"))})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy

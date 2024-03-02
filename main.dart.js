@@ -85402,7 +85402,7 @@ m=t.p
 r=A.dH(A.a([B.mu,A.cQ(A.r9(A.asJ(A.a([A.aar("software engineering"),A.aar("Flutter Developer")],t.u6),100),h,B.ck,!0,r,h,h,B.aM),f*0.05,h)],m),B.w,B.y,B.b1)
 l=A.cQ(h,f*0.002,h)
 k=A.a([],m)
-for(g=f*0.095,j=e*0.005,i=0;i<2;++i)k.push(new A.AV(B.mM[i],B.mS[i],g,j,h))
+for(g=f*0.075,j=e*0.005,i=0;i<2;++i)k.push(new A.AV(B.mM[i],B.mS[i],g,j,h))
 return A.cG(A.a([s,q,p,o,n,r,l,A.dH(k,B.w,B.y,B.b1)],m),B.aP,B.y,B.b1)}}
 A.Jl.prototype={
 M(a){var s,r=null,q=t.w,p=A.b0(a,r,q).w.a.a
@@ -85426,7 +85426,7 @@ m=t.p
 r=A.dH(A.a([B.mu,A.cQ(A.r9(A.asJ(A.a([A.aar("software engineering"),A.aar("Flutter Developer")],t.u6),100),h,B.ck,!0,r,h,h,B.aM),f*0.05,h)],m),B.w,B.y,B.b1)
 l=A.cQ(h,f*0.002,h)
 k=A.a([],m)
-for(g=f*0.095,j=e*0.005,i=0;i<2;++i)k.push(new A.AV(B.mM[i],B.mS[i],g,j,h))
+for(g=f*0.075,j=e*0.005,i=0;i<2;++i)k.push(new A.AV(B.mM[i],B.mS[i],g,j,h))
 return A.cG(A.a([s,q,p,o,n,r,l,A.dH(k,B.w,B.y,B.b1)],m),B.aP,B.y,B.b1)}}
 A.AV.prototype={
 M(a){var s=this,r=null,q=s.f
